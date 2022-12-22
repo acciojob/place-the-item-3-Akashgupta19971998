@@ -1,2 +1,13 @@
 
-/* Your CSS Code here. */
+.holedr{
+    display: flex;
+    /* grid-template-rows: repeat(4,25px); */
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.item{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+}
