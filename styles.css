@@ -1,5 +1,5 @@
 
-.holedr{
+.holder{
     display: flex;
     /* grid-template-rows: repeat(4,25px); */
     justify-content: space-evenly;
